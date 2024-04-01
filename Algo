@@ -1,0 +1,5 @@
+fun main() {
+    val salve = "hello world"
+    val name = "nome!"
+     println(" $salve$name")
+}
